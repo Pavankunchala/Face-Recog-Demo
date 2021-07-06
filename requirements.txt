@@ -1,7 +1,7 @@
 streamlit
 numpy==1.18.5
 opencv_python_headless
-
+cmake
 Pillow==8.3.0
 dlib-bin
 face_recognition
